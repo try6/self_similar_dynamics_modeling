@@ -6,7 +6,7 @@
 /CA/models/
 /CA/.DS_Store
 /CA/.ipynb_checkpoints/
-/vicsek/non-upload/
+/CA/non-upload/
 
 /diffusion/data/
 /diffusion/models/
@@ -23,6 +23,5 @@
 /vicsek/img
 /vicsek/non-upload/
 /vicsek/models
-/vicsek/upload
 /vicsek/.DS_Store
 
